@@ -3,19 +3,19 @@ PwC Switzerland Power BI in Data Analytics Virtual Case Experience
 Task 1: Call Centre Trends
 
 
-Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
+a.Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
-Overall customer satisfaction
+b.Overall customer satisfaction
 
-Overall calls answered/abandoned
+c.Overall calls answered/abandoned
 
-Calls by time
+d.Calls by time
 
-Average speed of answer
+e.Average speed of answer
 
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+f.Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
-Call Centre Trends
+g.Call Centre Trends
 
 
 Task 2: Customer Retention
@@ -31,23 +31,23 @@ Customer Retention Customer Retention
 Task 3: Diversity & Inclusion
 
 
-number of men
+a.number of men
 
-number of women
+b.number of women
 
-number of leavers
+c.number of leavers
 
-% employees promoted (FY21)
+d.% employees promoted (FY21)
 
-% of women promoted
+e.% of women promoted
 
-% of hires men
+f.% of hires men
 
-% of hires women
+g.% of hires women
 
-% turnover
+h.% turnover
 
-Average performance rating: men
+i.Average performance rating: men
 
-Average Performance rating: women
+j.Average Performance rating: women
 
